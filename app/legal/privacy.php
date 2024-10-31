@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--begin::Head-->
+
+<head>
+	<?php include("../includes/head.php"); ?>
+</head>
+<!--end::Head-->
+<!--begin::Body-->
+
+<p>Privacy policy text</p>
+
+
+<!--end::Body-->
+</body>
+</html>
